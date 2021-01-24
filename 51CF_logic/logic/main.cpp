@@ -83,6 +83,7 @@ int main(int argc, char** argv)
 	//添加注释4
 	//添加注释5
 	//添加注释666
+	int comment = 10; //添加注释7
 	Game G;
 	if (!G.init(map_filename, json_filename)) {
 		cout << "[Error] failed to load " << map_filename << endl;
@@ -140,6 +141,7 @@ int main(int argc, char** argv)
 	//add comments 4
 	//add comments 5
 	//add comments 6
+	int zhushi = 10; //add comments 7
 	outputResult(G, players);
 
 	return 0;
