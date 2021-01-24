@@ -77,6 +77,11 @@ int main(int argc, char** argv)
 	}
 	// load map
 	//初始化地图、玩家的势力区域、防御塔、兵团的作战关系表等等
+	//添加注释1
+	//添加注释2
+	//添加注释3
+	//添加注释4
+	//添加注释5
 	Game G;
 	if (!G.init(map_filename, json_filename)) {
 		cout << "[Error] failed to load " << map_filename << endl;
