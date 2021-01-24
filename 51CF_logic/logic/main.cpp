@@ -133,6 +133,11 @@ int main(int argc, char** argv)
 
 
 	// output the result
+	//add comments 1
+	//add comments 2
+	//add comments 3
+	//add comments 4
+	//add comments 5
 	outputResult(G, players);
 
 	return 0;
