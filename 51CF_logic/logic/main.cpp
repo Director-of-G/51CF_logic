@@ -147,6 +147,7 @@ int main(int argc, char** argv)
 	//add comments9 int zhushi = 27;  //add comments 7
 	//add comments9 int zhushier = 32; //add comments 8
 	//add comments 9
+	//add comments 10
 	outputResult(G, players);
 
 	return 0;
