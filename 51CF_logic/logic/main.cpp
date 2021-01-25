@@ -83,8 +83,8 @@ int main(int argc, char** argv)
 	//添加注释4
 	//添加注释5
 	//添加注释666
-	//int comment = 10; //添加注释7
-	//int comments2 = 20;  //添加注释8
+	int comment = 10; //添加注释7
+	int comments2 = 20;  //添加注释8
 	//添加注释9
 	//添加注释10
 	Game G;
