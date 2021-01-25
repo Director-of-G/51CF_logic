@@ -146,9 +146,9 @@ int main(int argc, char** argv)
 	//add comments 6
 	//add comments9 int zhushi = 27;  //add comments 7
 	//add comments9 int zhushier = 32; //add comments 8
-	//add comments 9
-	//add comments 10
-	outputResult(G, players);
+	//改变内容1 add comments 9
+	//改变内容2 add comments 10
+	outputResult(G, players);//更改内容3
 
 	return 0;
 
